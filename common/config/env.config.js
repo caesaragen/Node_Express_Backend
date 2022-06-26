@@ -9,5 +9,8 @@ module.exports = {
         "NORMAL_USER": 1,
         "PAID_USER": 4,
         "ADMIN": 2048
-    }
+    },
+    "MONGO_URL" : "mongodb+srv://caesar:5t0rmR1d3r@cluster0.6zlyv.mongodb.net/node_backend?retryWrites=true&w=majority"
+
+
 };
